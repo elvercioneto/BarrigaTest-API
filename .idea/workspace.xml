@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6181b4d-0ab1-4e13-a586-895a92aed860" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RWEOy0Ztf6rhaU19PGKPTF2ifA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.ce.wcaquino.rest.refac" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SuiteTest">
+    <configuration name="AuthTest.naoDeveAcessarAPISemToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarrigaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.rest.refac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.rest.refac" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.rest.refac.AuthTest" />
+      <option name="METHOD_NAME" value="naoDeveAcessarAPISemToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarrigaTest.t05_deveInserirMovimentacaoComSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarrigaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.rest.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.rest.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.rest.tests.BarrigaTest" />
+      <option name="METHOD_NAME" value="t05_deveInserirMovimentacaoComSucesso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovimentacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarrigaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.rest.refac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.rest.refac" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.rest.refac.MovimentacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaldoTest.deveCalcularSaldoContas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarrigaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.rest.refac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.rest.refac" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.rest.refac.SaldoTest" />
+      <option name="METHOD_NAME" value="deveCalcularSaldoContas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarrigaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.rest.refac.suite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.rest.refac.suite" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.rest.refac.suite.SuiteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SuiteTest" />
+        <item itemvalue="JUnit.BarrigaTest.t05_deveInserirMovimentacaoComSucesso" />
+        <item itemvalue="JUnit.AuthTest.naoDeveAcessarAPISemToken" />
+        <item itemvalue="JUnit.SaldoTest.deveCalcularSaldoContas" />
+        <item itemvalue="JUnit.MovimentacaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6181b4d-0ab1-4e13-a586-895a92aed860" name="Changes" comment="" />
+      <created>1687357410110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687357410110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
